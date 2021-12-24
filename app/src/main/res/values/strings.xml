@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JobCourse</string>
+    <string name="app_tagline">Selamat Datang di</string>
+    <string name="signin">SIGN IN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">SIGN UP</string>
+    <string name="user">username</string>
+    <string name="password">password</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="name_label">Name</string>
+    <string name="bio_label">Your Passion?</string>
+    <string name="explore">EXPLORE NOW</string>
+    <string name="slogan">Selamat datang di /n Aplikasi Job Course</string>
+
+    <string-array name="array_pilihan">
+        <item>Web</item>
+        <item>Mobile</item>
+        <item>Data Science</item>
+        <item>Cyber Security</item>
+    </string-array>
+</resources>

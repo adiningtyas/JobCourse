@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "168918695890",
+    "firebase_url": "https://jobcourse-39877-default-rtdb.firebaseio.com",
+    "project_id": "jobcourse-39877",
+    "storage_bucket": "jobcourse-39877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168918695890:android:6bc4fa2f1dccbc4963920b",
+        "android_client_info": {
+          "package_name": "apps.jobcourse.jobcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168918695890-cj5uj1ro5947mvpl7f512i0t1r4k4ibq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYN00FEDVdrJFjEH3fIPWGda-81dgSpBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168918695890-cj5uj1ro5947mvpl7f512i0t1r4k4ibq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168918695890:android:869eae852f382cdc63920b",
+        "android_client_info": {
+          "package_name": "apps.jobcourse.jobcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168918695890-cj5uj1ro5947mvpl7f512i0t1r4k4ibq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYN00FEDVdrJFjEH3fIPWGda-81dgSpBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168918695890-cj5uj1ro5947mvpl7f512i0t1r4k4ibq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
